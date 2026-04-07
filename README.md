@@ -1,1 +1,1 @@
-I will write something here one day.
+Ok so, just run the docker compose
