@@ -1,6 +1,6 @@
 from fastapi.testclient import TestClient
 from src.api.main import app
-
+#just run this, if this works, its good enough, if not, something messed up
 client = TestClient(app)
 
 def test_health():
